@@ -5,13 +5,13 @@ $ sudo apt-get install git
 
 To configure the system, clone this repository:
 
-$ git clone https://github.com/jetsonhacks/postFlash.git
+$ git clone https://github.com/dallasluther/postFlash.git
 
 This is for the current release, L4T 21.3
 
 For earlier releases, clone this repository with the appropriate 'Tag'. For example,
 
-$ git clone -b JetsonTK1-L4T-21.2 https://github.com/jetsonhacks/postFlash.git
+$ git clone -b JetsonTK1-L4T-21.2 https://github.com/dallasluther/postFlash.git
 
 will get the appropriate code for the L4T-21.2 release. Scripts are currently available for L4T-21.2.
 
