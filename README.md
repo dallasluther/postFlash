@@ -9,12 +9,6 @@ $ git clone https://github.com/dallasluther/postFlash.git
 
 This is for the current release, L4T 21.3
 
-For earlier releases, clone this repository with the appropriate 'Tag'. For example,
-
-$ git clone -b JetsonTK1-L4T-21.2 https://github.com/dallasluther/postFlash.git
-
-will get the appropriate code for the L4T-21.2 release. Scripts are currently available for L4T-21.2.
-
 Once downloaded, open a Terminal, switch to the repository directory, and execute the configureSystem script, i.e.
 
 $ cd postFlash
